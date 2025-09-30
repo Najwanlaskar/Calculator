@@ -1,3 +1,11 @@
+body{
+    min-height: 100vh;;
+display: flex;
+  justify-content: center;
+  align-self: center;
+
+}
+
 .container{ 
 height:440px;
 width:340px;
@@ -6,12 +14,12 @@ margin: auto;
 background-color: #d3d3d3;
 border: 5px solid grey;
 border-radius: 10%;
-
+padding: 10px;
+padding-top: 20px;
 }
-body{
-    min-height: 100vh;;
-display: flex;
-  justify-content: center;
-  align-self: center;
 
+.DisplayBar{
+background-color: #81f481;
+height:60px;
+border-radius: 10%;
 }
