@@ -49,3 +49,9 @@ button{
 img{
     height: 17px;
 }
+.symbol{
+    background-color: rgb(123, 168, 140);
+}
+.clear, img{
+    color:red;
+}
