@@ -1,0 +1,17 @@
+.container{ 
+height:440px;
+width:340px;
+margin: auto;
+
+background-color: #d3d3d3;
+border: 5px solid grey;
+border-radius: 10%;
+
+}
+body{
+    min-height: 100vh;;
+display: flex;
+  justify-content: center;
+  align-self: center;
+
+}
